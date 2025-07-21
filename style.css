@@ -1,0 +1,14 @@
+h1 { font-size:60px;
+text-align:center;
+text-decoration:underline;
+text-decoration-color:red;
+text-decoration-thickness:13px }
+h2 { color:black;
+font-size:40px;
+text-align:center;
+text-decoration:underline}
+p {font-style: italic;
+font-size:26px}
+image-size {width:20px;
+height:20px}
+body{background-image:url(https://i.pinimg.com/736x/27/a3/83/27a38306d9f12fdb3c9961dab979d19c.jpg)}
