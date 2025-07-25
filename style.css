@@ -1,14 +1,29 @@
 h1 { font-size:60px;
+	color:white;
 text-align:center;
 text-decoration:underline;
 text-decoration-color:red;
 text-decoration-thickness:13px }
-h2 { color:black;
+h2 { color:white;
 font-size:40px;
 text-align:center;
 text-decoration:underline}
 p {font-style: italic;
-font-size:26px}
-image-size {width:20px;
-height:20px}
-body{background-image:url(https://i.pinimg.com/736x/27/a3/83/27a38306d9f12fdb3c9961dab979d19c.jpg)}
+font-size:26px;
+color:white}
+img { width : 700px;
+length : 700px
+}
+body{
+	background-color: black;
+}
+#animepara{
+  text-align:center;
+  font-family:"Corbel";
+  font-weight:bold;
+  font-size:60px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+  color:white;
+  transition: text-shadow 0.7s ease-in-out;
+}
